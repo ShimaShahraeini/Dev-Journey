@@ -1,0 +1,14 @@
+/home/shima/projects/C#/HangmanGame/bin/Debug/net8.0/HangmanGame
+/home/shima/projects/C#/HangmanGame/bin/Debug/net8.0/HangmanGame.deps.json
+/home/shima/projects/C#/HangmanGame/bin/Debug/net8.0/HangmanGame.runtimeconfig.json
+/home/shima/projects/C#/HangmanGame/bin/Debug/net8.0/HangmanGame.dll
+/home/shima/projects/C#/HangmanGame/bin/Debug/net8.0/HangmanGame.pdb
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/HangmanGame.AssemblyInfoInputs.cache
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/HangmanGame.AssemblyInfo.cs
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/HangmanGame.csproj.CoreCompileInputs.cache
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/HangmanGame.dll
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/refint/HangmanGame.dll
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/HangmanGame.pdb
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/HangmanGame.genruntimeconfig.cache
+/home/shima/projects/C#/HangmanGame/obj/Debug/net8.0/ref/HangmanGame.dll
