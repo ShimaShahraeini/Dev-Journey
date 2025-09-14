@@ -1,0 +1,14 @@
+/home/shima/projects/Csharp_Projects/SnakeGame/bin/Debug/net8.0/SnakeGame
+/home/shima/projects/Csharp_Projects/SnakeGame/bin/Debug/net8.0/SnakeGame.deps.json
+/home/shima/projects/Csharp_Projects/SnakeGame/bin/Debug/net8.0/SnakeGame.runtimeconfig.json
+/home/shima/projects/Csharp_Projects/SnakeGame/bin/Debug/net8.0/SnakeGame.dll
+/home/shima/projects/Csharp_Projects/SnakeGame/bin/Debug/net8.0/SnakeGame.pdb
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/SnakeGame.AssemblyInfoInputs.cache
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/SnakeGame.AssemblyInfo.cs
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/SnakeGame.csproj.CoreCompileInputs.cache
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/SnakeGame.dll
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/refint/SnakeGame.dll
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/SnakeGame.pdb
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/SnakeGame.genruntimeconfig.cache
+/home/shima/projects/Csharp_Projects/SnakeGame/obj/Debug/net8.0/ref/SnakeGame.dll
